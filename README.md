@@ -13,4 +13,7 @@ This is a 14 day algo practice - it contains 2-3 leetcode problems to be complet
 | 704  | Binary Search | Easy | https://leetcode.com/problems/binary-search/ | Binary Search | Day 1 |
 | 977  | Squares of Sorted Array | Easy | https://leetcode.com/problems/squares-of-a-sorted-array/ | Two Pointers | Day 2 |
 | 189  | Rotate Array | Medium | https://leetcode.com/problems/rotate-array/ | Two Pointers | Day 2 |
+| 283  | Move Zeroes | Easy | https://leetcode.com/problems/move-zeroes/ | Two Pointers | Day 3 |
+| 167  | Two Sum 2 | Easy | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ | Two Pointers | Day 3 |
+
 
