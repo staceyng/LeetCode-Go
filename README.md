@@ -15,5 +15,9 @@ This is a 14 day algo practice - it contains 2-3 leetcode problems to be complet
 | 189  | Rotate Array | Medium | https://leetcode.com/problems/rotate-array/ | Two Pointers | Day 2 |
 | 283  | Move Zeroes | Easy | https://leetcode.com/problems/move-zeroes/ | Two Pointers | Day 3 |
 | 167  | Two Sum 2 | Easy | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ | Two Pointers | Day 3 |
+| 344  | Reverse String | Easy | https://leetcode.com/problems/reverse-string/ | Two Pointers | Day 4 |
+| 577  | Reverse Words in a String 3 | Easy | https://leetcode.com/problems/reverse-words-in-a-string-iii/ | Two Pointers | Day 4 |
+
+
 
 
