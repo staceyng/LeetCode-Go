@@ -17,6 +17,8 @@ This is a 14 day algo practice - it contains 2-3 leetcode problems to be complet
 | 167  | Two Sum 2 | Easy | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ | Two Pointers | Day 3 |
 | 344  | Reverse String | Easy | https://leetcode.com/problems/reverse-string/ | Two Pointers | Day 4 |
 | 577  | Reverse Words in a String 3 | Easy | https://leetcode.com/problems/reverse-words-in-a-string-iii/ | Two Pointers | Day 4 |
+| 876  | Middle of Linked List | Easy | https://leetcode.com/problems/middle-of-the-linked-list/ | Two Pointers | Day 5 |
+| 19 | Remove Nth Node From End of List | Medium | https://leetcode.com/problems/remove-nth-node-from-end-of-list/ | Two Pointers | Day 5 |
 
 
 
