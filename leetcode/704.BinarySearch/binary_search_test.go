@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-type inputParams struct {
+type inputParams704 struct {
 	nums   []int
 	target int
 }
@@ -13,17 +13,17 @@ type inputParams struct {
 func TestBinarySearch(t *testing.T) {
 	var tests = []struct {
 		name     string
-		input    inputParams
+		input    inputParams704
 		expOuput int
 	}{
 		{
 			"test 1 - element exists in array",
-			inputParams{nums: []int{-1, 0, 3, 5, 9, 12}, target: 9},
+			inputParams704{nums: []int{-1, 0, 3, 5, 9, 12}, target: 9},
 			4,
 		},
 		{
 			"test 2 - element does not exist in array",
-			inputParams{nums: []int{-1, 0, 3, 5, 9, 12}, target: 2},
+			inputParams704{nums: []int{-1, 0, 3, 5, 9, 12}, target: 2},
 			-1,
 		},
 	}

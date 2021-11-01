@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-type inputParams struct {
+type inputParams35 struct {
 	nums   []int
 	target int
 }
@@ -13,32 +13,32 @@ type inputParams struct {
 func TestSearchInsert(t *testing.T) {
 	var tests = []struct {
 		name      string
-		input     inputParams
+		input     inputParams35
 		expOutput int
 	}{
 		{
 			"test 1",
-			inputParams{nums: []int{1, 3, 5, 6}, target: 5},
+			inputParams35{nums: []int{1, 3, 5, 6}, target: 5},
 			2,
 		},
 		{
 			"test 2",
-			inputParams{nums: []int{1, 3, 5, 6}, target: 2},
+			inputParams35{nums: []int{1, 3, 5, 6}, target: 2},
 			1,
 		},
 		{
 			"test 3",
-			inputParams{nums: []int{1, 3, 5, 6}, target: 7},
+			inputParams35{nums: []int{1, 3, 5, 6}, target: 7},
 			4,
 		},
 		{
 			"test 4",
-			inputParams{nums: []int{1, 3, 5, 6}, target: 0},
+			inputParams35{nums: []int{1, 3, 5, 6}, target: 0},
 			0,
 		},
 		{
 			"test 5",
-			inputParams{nums: []int{1}, target: 0},
+			inputParams35{nums: []int{1}, target: 0},
 			0,
 		},
 	}
